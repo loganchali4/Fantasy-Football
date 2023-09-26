@@ -1,5 +1,5 @@
 # Fantasy Football Point Modeling
-Visualizing fantasy football data and predicting rookie success
+March 2023 | Visualizing Fantasy Football Data and Predicting Rookie Success
 
 View my full repository [HERE](https://github.com/loganchali4/Fantasy-Football)
 
